@@ -1,0 +1,10 @@
+* {
+  background: #757B8A;
+  color: aliceblue;
+  font-family: cursive;
+}
+
+button > i {
+  background: none;
+}
+
